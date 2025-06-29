@@ -23,6 +23,10 @@ The dataset used contains millions of journeys categorized by journey type, year
 - Filtering and sorting
 - Basic subsetting of data based on conditions
 
+## 📁 File(s) Included
+
+- `tfl_journeys_analysis.sql` — Contains the SQL queries listed above.
+
 ## 📌 Notes
 
 - The data was queried from the `TFL.JOURNEYS` table as provided in the DataCamp SQL environment.
